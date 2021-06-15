@@ -1,0 +1,7 @@
+C:\Users\perfi\source\repos\АПЧИХБА\АБОБА\bin\Debug\АБОБА.exe.config
+C:\Users\perfi\source\repos\АПЧИХБА\АБОБА\bin\Debug\АБОБА.exe
+C:\Users\perfi\source\repos\АПЧИХБА\АБОБА\bin\Debug\АБОБА.pdb
+C:\Users\perfi\source\repos\АПЧИХБА\АБОБА\obj\Debug\АБОБА.csprojAssemblyReference.cache
+C:\Users\perfi\source\repos\АПЧИХБА\АБОБА\obj\Debug\АБОБА.csproj.CoreCompileInputs.cache
+C:\Users\perfi\source\repos\АПЧИХБА\АБОБА\obj\Debug\АБОБА.exe
+C:\Users\perfi\source\repos\АПЧИХБА\АБОБА\obj\Debug\АБОБА.pdb
